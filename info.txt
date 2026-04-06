@@ -1,4 +1,8 @@
 Nombre
 Apellido
 Dni
+Materia
+Horario
+Profesor
+catedra
 
